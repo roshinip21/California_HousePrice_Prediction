@@ -2,7 +2,7 @@
 
 ### An Integrated Approach Using Regression and Clustering Techniques
 
-
+<img width="1136" alt="Screenshot 2025-03-12 at 10 50 45 AM" src="" />
 
 ---
 
