@@ -2,7 +2,7 @@
 
 ### An Integrated Approach Using Regression and Clustering Techniques
 
-<img width="1136" alt="Screenshot 2025-03-12 at 10 50 45 AM" src="" />
+<img width="1000" alt="Image" src="https://github.com/roshinip21/California_HousePrice_Prediction/blob/main/price_variation.png" />
 
 ---
 
@@ -44,6 +44,9 @@ Data preprocessing involved meticulous cleaning, handling of missing values, out
 * Feature engineering (age, price per square foot)
 * Standardization
 
+ <img width="1000" alt="Image" src="https://github.com/roshinip21/California_HousePrice_Prediction/blob/main/Rooms.png" />
+
+  
 ### Regression Techniques
 
 The following models were implemented and rigorously evaluated:
@@ -79,6 +82,9 @@ The following models were implemented and rigorously evaluated:
 
 The clustering analysis successfully segmented the market into distinct economic and geographic clusters, as visualized in the detailed clustering maps provided in the results.
 
+
+<img width="1136" alt="Image" src="https://github.com/roshinip21/California_HousePrice_Prediction/blob/main/Model.png/" >
+
 ---
 
 ## Visualizations
@@ -90,7 +96,7 @@ Several high-quality visual outputs illustrate the depth of analysis, including:
 * Kernel Density Estimation plots for detailed price distributions.
 * Correlation analyses and detailed exploration of pricing by city, bedrooms, and bathrooms.
 
-See the project repository images folder for detailed visualizations.
+See the project repository folder for detailed visualizations.
 
 ---
 
